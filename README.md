@@ -75,8 +75,8 @@ You are developing the backend for an EdTech platform that hosts virtual classro
    `exit`  
    Terminates the application.
 
-### Code Structure:
-The solution uses a **HashMap** to store classrooms and their associated data. Each classroom contains a list of students and assignments. Exception handling and validation are integrated for input errors and invalid operations.
+```### Code Structure:
+```The solution uses a **HashMap** to store classrooms and their associated data. Each classroom contains a list of students and assignments. Exception handling and validation are integrated for input errors and invalid operations.
 
 ### Sample Output:
 ```bash
